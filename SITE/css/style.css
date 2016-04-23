@@ -12,3 +12,7 @@
 #title {
     color: #9C27B0;
 }
+
+.airstats {
+    pointer-events: none;
+}
